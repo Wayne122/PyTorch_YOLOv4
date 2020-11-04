@@ -9,7 +9,6 @@
 # train and val datasets (image directory or *.txt file with image paths)
 train: ../kitti/train.txt
 val: ../kitti/val.txt
-test: ../kitti/val.txt
 
 # number of classes
 nc: 8
