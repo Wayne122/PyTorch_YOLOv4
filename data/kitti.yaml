@@ -7,8 +7,8 @@
 
 
 # train and val datasets (image directory or *.txt file with image paths)
-train: ../kitti/train.txt
-val: ../kitti/val.txt
+train: /content/COCO_styled_KITTI_tiny/kitti/train.txt
+val: /content/COCO_styled_KITTI_tiny/kitti/val.txt
 
 # number of classes
 nc: 8
