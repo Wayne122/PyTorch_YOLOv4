@@ -2,7 +2,7 @@
 # Train command: python train.py --data ./data/kitti.yaml
 
 # train and val datasets (image directory or *.txt file with image paths)
-val: /content/PyTorch-YOLOv3-kitti/data/samples
+val: /content/COCO_styled_KITTI_tiny/kitti/val.txt
 
 # number of classes
 nc: 8
